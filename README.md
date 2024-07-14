@@ -35,6 +35,5 @@ Disclaimer:
 
 This project is intended for educational purposes and may not be production-ready. Further development and security considerations might be necessary for real-world deployment.
 
-Author: 1: Muhammad Musa Kiani 
+Author:  Muhammad Musa Kiani 
 
-2: Ajmal Khan.
